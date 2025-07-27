@@ -1,3 +1,7 @@
+---
+sidebar_position : 1
+---
+
 # Apps
 
 **Apps4x**—a platform where you can bring your ideas to life by building custom applications of various types.
