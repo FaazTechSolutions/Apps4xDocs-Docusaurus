@@ -102,10 +102,10 @@ Manage how the response is handled and shown to the user:
 
     Example Format:
 
-    {{age}}@@Equals@@20
+    `{{age}}@@Equals@@20`
 
   This filters the response to include only records where the age field equals 20.
 
-  - This is the formate you have use for the condition {{age}}@@Equals@@20 you have to separate by @@ symbol.
+  - This is the formate you have use for the condition `{{age}}@@Equals@@20` you have to separate by @@ symbol.
 
 > Note: Use @@ as the separator between the field, operator, and value.
