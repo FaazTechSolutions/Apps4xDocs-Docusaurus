@@ -1,0 +1,8 @@
+{
+  "label": "Query",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn about Apps4x Query concepts."
+  }
+}
