@@ -19,7 +19,7 @@ If you write `{{name}}` in your form or message, it will show:
   - You write: Hello, `{{name}}`!
   - It shows: Hello, Mohamed Asim!
 
-You only need to enter the keyword inside {{ }}, and the system will fill in the correct value for you.
+You only need to enter the keyword inside `{{ }}`, and the system will fill in the correct value for you.
 
 ## HandleBar Usage Examples
 
@@ -35,7 +35,7 @@ Use this when you want to display simple data like a name:
 
 Use this to get data from the web address (URL):
 
-  - `{{Query.name}}` → Shows the value passed through the URL, like **?name=Asim**.
+  - `{{Query.name}}` → Shows the value passed through the URL, like **`?name=Asim`**.
 
 **3. From the Current Page Data**
 
@@ -86,11 +86,11 @@ Use this to get data saved in browser cookies:
 
 **10. From System Configuration File**
 
-Use this to get information from your app’s configuration file (systemConfig.json):
+Use this to get information from your app’s configuration file `(systemConfig.json)`:
 
   - `{{System.ServerUrl}}`
 
->  Pulls the server URL or other values set in assets/json/systemConfig.json.
+>  Pulls the server URL or other values set in `assets/json/systemConfig.json`.
 
 **11. From Parameters Table**
 
