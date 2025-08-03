@@ -91,10 +91,27 @@ The Configuration tab provides customization options for layout, visibility, int
 
 **Show Action**
 
-  - Displays actions defined in the Action form.
+The Show Action feature lets you display an Action Form either:
+
+  - Inline (next to each table row), or
+  - In the table header toolbar.
+
+How to Set It Up ?
+
+  1. Go to the Entity Details and open the Action tab.
+
+  2. Click the Create icon to make a new Action Form.
+
+  3. Design your form with the fields and layout you need.
+
+  4. In the Table Form Configuration, turn on the Show Action toggle.
+
+  5. Choose where the form should appear: Inline or in the Toolbar.
 
 **Custom Action**
 
   - Configure actions to appear :
     - Inline at the row level
     - In the table header toolbar
+
+> **Note :** Setup is also same as like Show Action.
