@@ -10,8 +10,8 @@ The Table form type in Apps4x allows you to display and manage data in a structu
 
 The Table form includes multiple configuration areas for full control over appearance, functionality, and data behavior:
 
-  - Configuration
-  - Column
-  - Data Source
-  - Sorting
-  - Condition
+  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+  - [Column](../../docs/Forms/Columns/Columns.md)
+  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
+  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
+  - [Condition](../../docs/Forms/Condition/Condition.md)

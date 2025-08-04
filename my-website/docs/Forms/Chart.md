@@ -43,3 +43,9 @@ For example:
 ### Not Supported for Multiple Charts
 
   - Pie charts and a few other chart types do not support multiple charts in one view.
+
+    - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+    
+    - [Chart](../../docs/Forms/Chart.md)
+  
+    - [Data Source](../../docs/Forms/DataSource/DataSource.md)

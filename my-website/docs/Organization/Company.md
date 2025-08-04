@@ -20,5 +20,3 @@ sidebar_position : 3
 ## Users
 
   - Assign Users/Members to manage permissions to access company.
-
-[Company](../../docs/Apps/Apps.md)

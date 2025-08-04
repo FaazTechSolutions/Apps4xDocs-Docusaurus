@@ -6,38 +6,7 @@ sidebar_position : 2
 
 Each Application in Apps4x has a Collection, which organizes a group of Entities, their Fields, and associated Forms.
 
-## How to create Connectors ?
-
-Before creating a Collection, you must set up a Database Connector in App Studio to manage data effectively.
-
-### Steps to Create a Connector :
-
-**1. Open App Studio**
-
-  - Navigate to your app and enter the Apps4x Studio.
-
-**2. Go to the Connectors Tab**
-
-  - In the Apps4x studio, select `connectors` from the top navigation tab and click `+` tab, it will appear the connector create popup.
-
-**3. Choose Connector Type**
-
-  - Select the type of connector that suits your data source:
-
-  - The Connector types are,
-    - SQL
-    - MongoDB
-    - Rest Api
-    - API Method
-    - Swagger
-
-**4. Enter Connection Details**
-
-  - Provide a Connection String or other required credentials, depending on the selected connector type.
-
-**5. Save the Connector**
-
-  - Click Submit to complete the setup. Your connector is now ready to be used with Collections.
+> **Note :** Before creating a Collection, you must set up a Database Connector in App Studio to manage data effectively. [Click to view Connector Setup](../../docs/Connector/Connector.md)
 
 ## How to create Collection ?
 
@@ -53,7 +22,7 @@ Once you've created a Database Connector, you can start building Collections in 
 
   - In the left-side navigation, find the Collections section.
 
-  - Click the + icon to open the Create Collection form.
+  - Click the `+` icon to open the Create Collection form.
 
 **3. Fill in Collection Details**
 

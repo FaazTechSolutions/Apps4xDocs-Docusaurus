@@ -52,30 +52,53 @@ Fields play a crucial role in your application—they define how data is capture
     - Specifies the kind of data the field holds. (See Data Types below)
 
     - Datatype types are,
-      - String
-      - Integer
-      - Date
-      - Date Time
-      - Decimal
-      - TimeSpan
-      - Image
-      - Dropdown
-      - Relation
-      - Boolean
-      - Text Area
-      - DB Computed
-      - Formula
-      - File
-      - Time
-      - QR Code
-      - List
-      - HTML Editor
-      - Button
-      - Icon
-      - Password
-      - Int64
-      - Chips
-      - Image Slider
+      - **String** (Stores basic text or characters (e.g., names, titles) )
+
+      - **Integer** (Whole numbers without decimals (e.g., 1, 25, 300) )
+
+      - **Date** (Stores only the date (e.g., 2025-08-04) )
+
+      - **Date Time** (Stores both date and time in one field)
+
+      - **Decimal** (Numbers with decimal points (e.g., 12.45) )
+
+      - **TimeSpan** (Stores a duration of time (e.g., 02:15:30 = 2 hours, 15 minutes, 30 seconds) )
+
+      - **Image** (Upload and store an image file)
+
+      - **Dropdown** (Allows users to select a value from a predefined list)
+
+      - **Relation** (Links to another collection or table in your app)
+
+      - **Boolean** (Stores a true/false value (e.g., Yes/No, On/Off) )
+
+      - **Text Area** (Larger multi-line text (e.g., comments, descriptions) )
+
+      - **DB Computed** (A field calculated automatically by the database (read-only) )
+
+      - **Formula** (A computed field based on a formula you define)
+
+      - **File** (Upload and store file attachments (e.g., PDFs, docs) )
+
+      - **Time** (Stores only the time (e.g., 14:30:00) )
+
+      - **QR Code** (Automatically generates a QR code based on field content)
+
+      - **List** (Stores a list of values (multi-select or repeated items) )
+
+      - **HTML Editor** (	Rich-text editor that supports HTML content)
+
+      - **Button** (A clickable button that can trigger an action or workflow)
+
+      - **Icon** (Stores or displays an icon from a supported icon set)
+
+      - **Password** (Hidden input field for storing sensitive text (e.g., passwords) )
+
+      - **Int64** (Large whole numbers (64-bit), useful for big IDs or counts)
+
+      - **Chips** (Tag-style input for adding multiple short items (e.g., labels, categories) )
+
+      - **Image Slider** (A set of images that can be displayed as a slider/carousel)
 
   - **Order Id**
     - Determines the position/order of the field in lists.
