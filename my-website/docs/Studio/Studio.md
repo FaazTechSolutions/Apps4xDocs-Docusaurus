@@ -1,12 +1,12 @@
 # Studio
 
-The Studio in Apps4x is the main control center where you can build, manage, and configure your entire application. From creating menus to managing users, roles, and permissions—everything happens here. You can also manage packages and access the App Store.
+The Studio in Apps4x is the main control center where you can **build, manage, and configure** your entire application. From **creating menus to managing users, roles, and permissions**—everything happens here. You can also manage packages and access the App Store.
 
 ## Studio menus:
   
 **1. Home**
 
-  - Takes you back to the main dashboard or home screen.
+  - Takes you back to the main **dashboard or home screen**.
 
 **2. Package**
 

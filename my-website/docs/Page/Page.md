@@ -6,7 +6,7 @@ The Page feature in Apps4x lets you design a layout by combining different eleme
 
   - Click the `+` icon on the left menu to create a new page.
 
-  - Choose a Base Entity for the page.
+  - Choose a `Base Entity` for the page.
 
   - Open the Page Canvas and select the Form option to start designing.
 

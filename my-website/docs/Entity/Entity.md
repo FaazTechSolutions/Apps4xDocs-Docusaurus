@@ -22,4 +22,4 @@ Follow these steps to create an entity within a collection:
 
 **3. Create the Entity**
 
-  - Click Save to add the entity to your collection.
+  - Click `Save` to add the entity to your collection.

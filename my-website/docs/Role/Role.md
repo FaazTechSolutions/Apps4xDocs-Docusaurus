@@ -1,12 +1,12 @@
 # Role
 
-In Apps4x, a Role is used to manage what users can access in the application. You can assign users to roles and also assign menus to roles to control access and permissions.
+In Apps4x, a Role is used to manage what users can access in the application. You can assign users to roles and also assign menus to roles to **control access and permissions**.
 
 ## What You Can Do with Roles
 
-  - Create different roles like Admin, Manager, or Viewer.
+  - Create different roles like **Admin, Manager, or Viewer**.
 
-  - Assign specific users to a role.
+  - Assign specific **users to a role**.
 
   - Assign specific menus or features that the role can access.
 
@@ -22,7 +22,7 @@ In Apps4x, a Role is used to manage what users can access in the application. Yo
 
   - A popup will appear showing the list of users.
 
-  - Select the users and click the action button to assign them.
+  - Select the users and click the action button to assign/unassign them.
 
 **3. Assign Menus to the Role**
 

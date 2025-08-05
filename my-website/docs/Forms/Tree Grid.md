@@ -20,3 +20,11 @@ If you have a table with:
   - ParentId (manager or reporting person)
 
 The Tree Grid will group employees under their respective managers automatically.
+
+## Configuration Tabs
+
+  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+  - [Column](../../docs/Forms/Columns/Columns.md)
+  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
+  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
+  - [Condition](../../docs/Forms/Condition/Condition.md)

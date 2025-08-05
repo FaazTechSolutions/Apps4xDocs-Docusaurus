@@ -24,10 +24,10 @@ Follow these steps to create your own app:
 
     - Application
     - Portal
-    - Workspace
-    - Website
-    - Mobile App
-    - API Application
+    - Workspace - Not Implemented
+    - Website - Not Implemented
+    - Mobile App - Not Implemented
+    - API Application - Not Implemented
     - External App
 
 **4. Set a Name for Your App**

@@ -8,23 +8,25 @@ The Event feature in Apps4x allows you to trigger actions automatically based on
 
   2. Select an Event Type. The system supports:
 
-      - Created – Trigger when a record is created
+      - **Created** – Trigger when a record is created
 
-      - Updated – Trigger when a record is updated
+      - **Updated** – Trigger when a record is updated
 
-      - Deleted – Trigger when a record is deleted
+      - **Deleted** – Trigger when a record is deleted
 
-      - Goal Escalation – Trigger based on goal rules
+      - **Goal Escalation** – Trigger based on goal rules
 
-      - Deadline Escalation – Trigger when a deadline is missed
+      - **Deadline Escalation** – Trigger when a deadline is missed
 
-      - Recurring Type – Trigger on a recurring schedule
+      - **Recurring Type** – Trigger on a recurring schedule
 
-      - File Upload – Trigger when a file is uploaded
+      - **File Upload** – Trigger when a file is uploaded
 
   3. Before creating the event, make sure you have a form of type "Create" ready. This is where the action will apply.
 
-  4. Set up Event Conditions when creating the event (or update them later). Example: “Employee Id is not null.”
+  4. Set up Event Conditions when creating the event (or update them later). 
+  
+  **Example: “Employee Id is not null.”**
 
 ## Configure Actions:
 
@@ -32,7 +34,7 @@ The Event feature in Apps4x allows you to trigger actions automatically based on
 
   2. Use placeholders in the form to pass dynamic values (like Employee ID, Created Date, etc.).
 
-  3. Example:
+  3. **Example:**
 
   - If a record is created in the Employee form,
 

@@ -4,7 +4,7 @@ sidebar_position : 1
 
 # Package
 
-The Package feature in Apps4x is used to move metadata (like forms, entities, queries, etc.) from one environment to another—for example, from Development to Testing or Production.
+The Package feature in Apps4x is used to **move metadata (like forms, entities, queries, etc.)** from one environment to another—for example, **from Development to Testing or Production**.
 
 ## What It Does
 
@@ -26,7 +26,7 @@ The Package feature in Apps4x is used to move metadata (like forms, entities, qu
 
         - Choose the meta objects you want to include (forms, entities, queries, etc.).
 
-  4. Click Save, then Export the package.
+  4. Click **Save**, then Export the package.
 
 ## How to Import and Deploy
 
@@ -54,11 +54,11 @@ After importing the connector package, follow the same steps for the App package
 
   3. Follow the same steps:
 
-        - Schema Migration
-        - Data Migration
-        - Testing
-        - Activation
-        - Complete
+        - **Schema Migration**
+        - **Data Migration**
+        - **Testing**
+        - **Activation**
+        - **Complete**
 
 > **Note:**
 After Activation, no changes can be made to the meta objects included in the package.

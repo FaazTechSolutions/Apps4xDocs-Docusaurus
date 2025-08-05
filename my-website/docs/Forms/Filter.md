@@ -22,7 +22,7 @@ The Custom Filter in Apps4x is used to filter records in Table, Card, List, and 
 
     - Choose where the filter should appear (e.g. top, left). This controls the alignment of the filter fields.
 
-## Design Tab
+**Design Tab**
 
   - Create a form with the type Filter.
 
@@ -33,3 +33,7 @@ The Custom Filter in Apps4x is used to filter records in Table, Card, List, and 
   - The filter will appear above the table or selected view on the output page.
 
   - In the form's data source, make sure to add the filter fields in the query string so the filtering works correctly.
+
+**[Rules](../../docs/Forms/Rules.md)**
+
+**[Datasource](../../docs/Forms/DataSource/DataSource.md)**

@@ -12,12 +12,12 @@ An Environment in Apps4x is a dedicated workspace where you can manage and organ
 
   - Set a Name for the environment in create popup.
 
-  - Assign Users/Members to manage permissions (from the People tab).
+  - Assign **Users/Members** to manage permissions (from the People tab).
 
 ## How to Create People/Member ?
 
-  - Go to the People tab and click the Create People button.
+  - Go to the **People tab** and click the **Create People** button.
 
   - Fill in the required information and choose the Organization User Type.
 
-  - The created users will manage permissions for Environments and Companies.
+  - The created users will **manage permissions for Environments and Companies**.

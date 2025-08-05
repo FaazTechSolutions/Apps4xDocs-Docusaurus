@@ -1,6 +1,6 @@
 # App Store
 
-The App Store in Apps4x works just like the Android Play Store or Apple App Store, but for your internal apps. It contains ready-to-use packages that you can install into your environment. You can also create your own packages and publish them to the App Store.
+The **App Store** in Apps4x works just **like the Android Play Store or Apple App Store**, but for your internal apps. It contains ready-to-use packages that you can install into your environment. You can also **create your own packages and publish** them to the App Store.
 
 ## How to Use
 
@@ -14,6 +14,6 @@ The App Store in Apps4x works just like the Android Play Store or Apple App Stor
 
   - Go to the **Package** section.
 
-  - Follow the setup steps (Schema Migration → Data Migration → Testing → Activation) as guided in the package documentation.
+  - Follow the setup steps **(Schema Migration → Data Migration → Testing → Activation)** as guided in the package documentation.
 
-This makes it easy to reuse, share, and deploy apps across environments or teams without rebuilding them from scratch.
+This makes it easy to **reuse, share, and deploy apps** across environments or teams without rebuilding them from scratch.

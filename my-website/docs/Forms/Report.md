@@ -21,3 +21,9 @@ The Report form in Apps4x is used to display custom reports on a page. It lets y
   2. Add your HTML, scripts, and data source in the form to define how the report should look.
 
   3. Use the Print button on the page to generate a printable version of the report.
+
+## Form Configuration
+
+  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+
+  - [Data Source](../../docs/Forms/DataSource/DataSource.md)

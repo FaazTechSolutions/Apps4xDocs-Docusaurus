@@ -1,6 +1,6 @@
 # Menu
 
-The Menu feature in Apps4x lets you create and manage menus that link to forms, queries, pages, or other content. These menus appear on the output page for user navigation.
+The Menu feature in Apps4x lets you **create and manage menus** that link to forms, queries, pages, or other content. These menus appear on the output page for user navigation.
 
 ## How to Create a Menu
 
@@ -39,11 +39,11 @@ The Menu feature in Apps4x lets you create and manage menus that link to forms, 
 
   - Set the Target to choose how the content opens:
 
-    - Page
-    - Popup
-    - New Window
+    - **Page**
+    - **Popup**
+    - **New Window**
 
-  - Edit, Delete, or Update menus anytime.
+  - **Edit, Delete, or Update** menus anytime.
 
   - Assign menu-level permissions to control who can see or use a menu.
 

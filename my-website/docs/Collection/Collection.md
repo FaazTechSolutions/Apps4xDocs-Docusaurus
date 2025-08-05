@@ -8,7 +8,7 @@ Each Application in Apps4x has a Collection, which organizes a group of Entities
 
 > **Note :** Before creating a Collection, you must set up a Database Connector in App Studio to manage data effectively. [Click to view Connector Setup](../../docs/Connector/Connector.md)
 
-## How to create Collection ?
+## How to Create Collection ?
 
 Once you've created a Database Connector, you can start building Collections in your app.
 
@@ -33,6 +33,6 @@ Once you've created a Database Connector, you can start building Collections in 
 
 **4. Save the Collection**
 
-  - Once all fields are completed, Click continue button. It will take to you create entity and it's fields.
+  - Once all fields are completed, Click continue button. It will take to you create entity and to create needed fields.
 
   - If you're ready to create entity and it's fields, then you can proceed with the flow.

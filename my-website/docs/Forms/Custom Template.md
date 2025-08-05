@@ -18,3 +18,9 @@ You can use your custom templates in the Page Canvas to display dynamic content 
     3. Configure it by selecting the template form you created.
 
   - Once configured, your custom layout will appear on the output page as designed.
+
+## Form Configuration
+
+  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+
+  - [Data Source](../../docs/Forms/DataSource/DataSource.md)

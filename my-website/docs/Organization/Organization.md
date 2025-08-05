@@ -4,7 +4,7 @@ sidebar_position : 1
 
 # Organization
 
-An Organization in Apps4x is a shared workspace where you and your team can build, manage, and collaborate on multiple applications. It helps you organize projects, control access, and unlock features based on your selected plan.
+An Organization in Apps4x is a shared workspace where you and your team can build, manage, and collaborate on multiple applications. It helps you **organize projects, control access, and unlock features** based on your selected plan.
 
 ## How to Create Organization ?
 
@@ -14,7 +14,7 @@ Log in to the Apps4x platform. After signing in, you’ll be directed to the Org
 
 **2. Click “New Organization”**
 
-On the Organization Home page, click the “New Organization” tile to open the organization creation popup.
+On the Organization Home page, click the **“New Organization”** tile to open the organization creation popup.
 
 **3. Set Organization Details**
 
@@ -37,4 +37,4 @@ Set up how your organization works in Apps4x by configuring key settings such as
     - Azure Blob
     - File System
 
-These settings help you control structure, security, and storage based on your organization's needs.
+These settings help you **control structure, security, and storage** based on your organization's needs.

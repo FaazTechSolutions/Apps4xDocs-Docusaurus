@@ -8,7 +8,7 @@ sidebar_position : 3
 
   - Click the Create Company button to open the creation popup.
 
-  - Set your Company Name and Logo (either upload or provide a URL).
+  - Set your **Company Name and Logo** (either upload or provide a URL).
 
 ## Configure Company
 
@@ -19,4 +19,4 @@ sidebar_position : 3
 
 ## Users
 
-  - Assign Users/Members to manage permissions to access company.
+  - Assign **Users/Members** to manage permissions to access company.

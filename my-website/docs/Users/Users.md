@@ -1,6 +1,6 @@
 # Users
 
-The Users section in Apps4x lets you create and manage users, and control what they can access in the application using roles and permissions.
+The Users section in Apps4x lets you **create and manage users**, and control what they can access in the application using **roles and permissions**.
 
 ## What You Can Do
 

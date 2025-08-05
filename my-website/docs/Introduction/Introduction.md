@@ -30,6 +30,6 @@ Apps4x dynamically connects your frontend to any data source or service.
 
 Integrate your own database—Apps4x supports full backend customization.
 
-  - All data is stored directly in your connected DB
+  - All data is stored directly in your connected DB.
 
-  - Use Apps4x as a backend framework to handle logic, data operations, and more
+  - Use Apps4x as a backend framework to handle logic, data operations, and more.
