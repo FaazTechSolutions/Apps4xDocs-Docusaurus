@@ -13,11 +13,11 @@ The **LookUp Data Column** allows you to fetch and show related information from
 
 | Field Name | Description |
 | -----------| ----------- |
-| **Related Table** | The name of the table you want to fetch data from. <br>➡️ You can find the table name in **Entity Details**. |
-| **Related Table Alias** | An alias (nickname) for the related table. <br>➡️ You can use any name here to simplify references. |
-| **Related Table Condition** | A condition (like a `WHERE` clause) to filter the data. <br>➡️ Example: `status = 'active'` |
+| **Related Table** | The name of the table you want to fetch data from. You can find the table name in **Entity Details**. |
+| **Related Table Alias** | An alias (nickname) for the related table. You can use any name here to simplify references. |
+| **Related Table Condition** | A condition (like a `WHERE` clause) to filter the data.  **Example: `status = 'active'`** |
 | **ID Field** | The field from the related table that you want to use as the **key** or reference. |
-| **ID Description** | The field from the related table that you want to **display** in the view. <br>➡️ This is what the user will see. |
+| **ID Description** | The field from the related table that you want to **display** in the view. This is what the user will see. |
 
 **Example Use Case**
 
