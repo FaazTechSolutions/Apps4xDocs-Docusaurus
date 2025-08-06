@@ -33,6 +33,12 @@ A Connector allows your app to connect and interact with external data sourcesâ€
 
   - Provide a Connection String or other required credentials, depending on the selected connector type.
 
+**Sample Connection string for the database connector :**
+
+> Server=tcp:dummy.database.windows.net,1433;Initial Catalog=dummyDBNAME;Persist Security Info=False;User 
+
+> ID=UserID;Password=123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=180;
+
 **5. Save the Connector**
 
   - Click Submit to complete the setup. Your connector is now ready to be used with Collections.
