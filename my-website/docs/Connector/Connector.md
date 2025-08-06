@@ -43,7 +43,7 @@ A Connector allows your app to connect and interact with external data sourcesâ€
 
     - [Create Parameter](../../docs/Parameter/Parameter%20Create.md) for Base Url to sue the REST API connector.
 
-    - Click to [view Rest API Connector usage](../../docs/Connector/Swagger%20Connector.md).
+    - Click to [view Rest API Connector usage](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
 
   - **Swagger Connector**
 
@@ -51,11 +51,11 @@ A Connector allows your app to connect and interact with external data sourcesâ€
 
     - [Create Parameter](../../docs/Parameter/Parameter%20Create.md) for Base Url to sue the Swagger connector.
 
-    - Your absoulte path should be /swagger/v1/swagger.json
+    - Your absoulte path should be `/swagger/v1/swagger.json`
 
     - Also make sure your swagger is working fine.
 
-    - Click to [view Swagger Connector usage](../../docs/Connector/Swagger%20Connector.md).
+    - Click to [view Swagger Connector usage](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
 
   - **API Method Connector** - (Will Develop in Future)
 

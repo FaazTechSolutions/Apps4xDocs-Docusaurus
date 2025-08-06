@@ -64,11 +64,11 @@ Fields play a crucial role in your application—they define how data is capture
 
       - **TimeSpan** (Stores a duration of time (e.g., 02:15:30 = 2 hours, 15 minutes, 30 seconds) )
 
-      - **[Image](../../docs/Fields/Image.md)** (Upload and store an image file)
+      - **Image** (Upload and store an image file)
 
-      - **[Dropdown](../../docs/Fields/Dropdown.md)** (Allows users to select a value from a predefined list)
+      - **Dropdown** (Allows users to select a value from a predefined list)
 
-      - **[Relation](../../docs/Fields/Relation.md)** (Links to another collection or table in your app)
+      - **Relation** (Links to another collection or table in your app)
 
       - **Boolean** (Stores a true/false value (e.g., Yes/No, On/Off) )
 

@@ -10,8 +10,8 @@ sidebar_position : 1
   - [Query](../../docs/Query/Query.md)
   - [Collection](../../docs/Collection/Collection.md)
   - [Entity](../../docs/Entity/Entity.md)
-  - [Rest Api Connector](../../docs/Connector/Swagger%20Connector.md)
-  - [Swagger Connector](../../docs/Connector/Swagger%20Connector.md)
+  - [Rest Api Connector](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md)
+  - [Swagger Connector](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md)
 
 **Datasource Setup**
 

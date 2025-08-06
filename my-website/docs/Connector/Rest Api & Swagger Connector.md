@@ -1,4 +1,4 @@
-# Rest API/ Swagger Connector
+# Rest API/Swagger Connector
 
 Rest API/Swagger is used to connect the api's into apps4x.
 
@@ -8,7 +8,7 @@ Rest API/Swagger is used to connect the api's into apps4x.
 
   - Rest Api/ Swagger Configuration Setup
 
-    - **[Field](../../Fields/Fields.md)**
+    - **[Field](../../docs/Fields/Field.md)**
     - **Api Method**
 
   - **Create Api Method**
