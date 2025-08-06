@@ -20,7 +20,7 @@ The Studio in Apps4x is the main control center where you can **build, manage, a
 
 **4. Meta Object**
 
-  - Shows a full list of everything you've created in your app—like forms, pages, menus, and more—all in one place.
+  - Shows a full list of everything you've created in your **app—like forms, pages, menus, and more**—all in one place.
 
 **5. Handle Bar**
 

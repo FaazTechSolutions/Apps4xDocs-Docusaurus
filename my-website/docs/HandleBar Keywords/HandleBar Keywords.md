@@ -103,6 +103,8 @@ Use it when you want to insert dynamic values like URLs or settings that may cha
 
   - `{{Global.SystemTitle}}`
 
+  - [Global Service Fields](../../docs/Global%20Serive/Global%20Service%20Fields.md)
+
 > This gets information from global app settings (called global service variables).
 
 >  Example: Showing the name or title of your app throughout the system.

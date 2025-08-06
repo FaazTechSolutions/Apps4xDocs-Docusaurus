@@ -4,7 +4,7 @@ The Workflow feature in Apps4x allows you to define a series of stages and actio
 
 ## How to Create a Workflow
 
-  1. Click the + icon in the left menu under Workflow.
+  1. Click the `+` icon in the left menu under Workflow.
 
   2. Fill in the required details, including the Connector ID (if applicable).
 

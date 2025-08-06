@@ -1,0 +1,47 @@
+# Global Service Fields
+
+  - UserInfo
+  - System Configs
+  - SysParameter
+  - ServerUrl
+  - _IsLogin
+  - IsLogin
+  - ActiveDirectoryLoginAuthority
+  - ActiveDirectoryLoginRedirectUrl
+  - ActiveDirectoryLoginClientId
+  - currentOrganization
+  - currentOrganizationId
+  - OrganizationList
+  - currentEnvironmentId
+  - currentEnvironment
+  - EnvironmentList
+  - currentCompanyId
+  - currentCompanyPath
+  - currentCompany
+  - currentCompanySettings
+  - CompanyList
+  - currentApp
+  - devMode
+  - EditLableMode
+  - currentAppId
+  - currentAppViewType
+  - currentAppPrefix
+  - currentAppType
+  - currentAppDetails
+  - currentAppDefaultHomePage
+  - isCurrentAppMember
+  - currentAppMenuList
+  - isHideTopNav
+  - isHideMenu
+  - isTopMenu
+  - isAdminUser
+  - dynamicfieldActiveInputId
+  - studioAppId
+  - studioAppType
+  - studioAppDetails
+  - httpRequestLoader
+  - CurrentLanguage
+  - CurrentSortCode
+  - CurrentLanguageDirection
+  - systemLabels
+  - systemLanguages
