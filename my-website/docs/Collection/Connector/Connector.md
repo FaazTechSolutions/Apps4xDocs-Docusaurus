@@ -31,31 +31,31 @@ A Connector allows your app to connect and interact with external data sourcesâ€
 
   - **DB Connector (SQL/Mongo DB)**
 
-    - [Create Parameter](../../docs/Parameter/Parameter%20Create.md), before creating DB Connector.
+    - [Create Parameter](../../Parameter/Parameter%20Create.md), before creating DB Connector.
 
     - Now You can create DB Connector.
 
-    - Click to [view DB Connector usage](../../docs/Connector/DB%20Connector.md).
+    - Click to [view DB Connector usage](../../Collection/Connector/Connector.md).
 
   - **REST API Connector**
 
     - You can integrate the third party APIs into the application by using REST API connector.
 
-    - [Create Parameter](../../docs/Parameter/Parameter%20Create.md) for Base Url to sue the REST API connector.
+    - [Create Parameter](../../Parameter/Parameter%20Create.md) for Base Url to sue the REST API connector.
 
-    - Click to [view Rest API Connector usage](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
+    - Click to [view Rest API Connector usage](../../Collection/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
 
   - **Swagger Connector**
 
     - You should have Swagger Json to use Swagger connector.
 
-    - [Create Parameter](../../docs/Parameter/Parameter%20Create.md) for Base Url to sue the Swagger connector.
+    - [Create Parameter](../../Parameter/Parameter%20Create.md) for Base Url to sue the Swagger connector.
 
     - Your absoulte path should be `/swagger/v1/swagger.json`
 
     - Also make sure your swagger is working fine.
 
-    - Click to [view Swagger Connector usage](../../docs/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
+    - Click to [view Swagger Connector usage](../../Collection/Connector/Rest%20Api%20&%20Swagger%20Connector.md).
 
   - **API Method Connector** - (Will Develop in Future)
 

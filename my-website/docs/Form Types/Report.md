@@ -24,6 +24,6 @@ The Report form in Apps4x is used to display custom reports on a page. It lets y
 
 ## Form Configuration
 
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+  - [Configuration](.././Form%20Types/Configuration/Configuration.md)
 
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)

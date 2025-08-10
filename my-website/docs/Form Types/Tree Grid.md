@@ -23,8 +23,8 @@ The Tree Grid will group employees under their respective managers automatically
 
 ## Configuration Tabs
 
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
-  - [Column](../../docs/Forms/Columns/Columns.md)
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
-  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
-  - [Condition](../../docs/Forms/Condition/Condition.md)
+  - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
+  - [Column](../../docs/Form%20Types/Columns/Columns.md)
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)
+  - [Sorting](../../docs/Form%20Types/Sorting/Sorting.md)
+  - [Condition](../../docs/Form%20Types/Condition/Condition.md)

@@ -26,12 +26,12 @@ The Board form type in Apps4x displays data in a visual board layout, as an alte
     
   - Use the **Create Icon** option to configure and design the form visually.
     
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+  - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
   
-  - [Column](../../docs/Forms/Columns/Columns.md)
+  - [Column](../../docs/Form%20Types/Columns/Columns.md)
 
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)
 
-  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
+  - [Sorting](../../docs/Form%20Types/Sorting/Sorting.md)
 
-  - [Condition](../../docs/Forms/Condition/Condition.md)
+  - [Condition](../../docs/Form%20Types/Condition/Condition.md)

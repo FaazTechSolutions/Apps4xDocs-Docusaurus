@@ -24,8 +24,8 @@ The Chat form in Apps4x is used for creating chat-like or email-style interfaces
 
 ## Configuration Setup Tabs
 
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
-  - [Column](../../docs/Forms/Columns/Columns.md) No Issue, its hard coded semi dynamic form configuration.
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
-  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
-  - [Condition](../../docs/Forms/Condition/Condition.md)
+  - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
+  - [Column](../../docs/Form%20Types/Columns/Columns.md) No Issue, its hard coded semi dynamic form configuration.
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)
+  - [Sorting](../../docs/Form%20Types/Sorting/Sorting.md)
+  - [Condition](../../docs/Form%20Types/Condition/Condition.md)

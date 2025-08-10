@@ -21,6 +21,6 @@ You can use your custom templates in the Page Canvas to display dynamic content 
 
 ## Form Configuration
 
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
+  - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
 
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)

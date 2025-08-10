@@ -6,7 +6,7 @@ sidebar_position : 2
 
 Each Application in Apps4x has a Collection, which organizes a group of Entities, their Fields, and associated Forms.
 
-> **Note :** Before creating a Collection, you must set up a Database Connector in App Studio to manage data effectively. [Click to view Connector Setup](../../docs/Connector/Connector.md)
+> **Note :** Before creating a Collection, you must set up a Database Connector in App Studio to manage data effectively. [Click to view Connector Setup](../../docs/Collection/Connector/Connector.md)
 
 ## How to Create Collection ?
 

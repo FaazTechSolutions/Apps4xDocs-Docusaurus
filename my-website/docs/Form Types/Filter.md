@@ -34,6 +34,6 @@ The Custom Filter in Apps4x is used to filter records in Table, Card, List, and 
 
   - In the form's data source, make sure to add the filter fields in the query string so the filtering works correctly.
 
-**[Rules](../../docs/Forms/Rules.md)**
+**[Rules](../../docs/Form%20Types/Rules.md)**
 
-**[Datasource](../../docs/Forms/DataSource/DataSource.md)**
+**[Datasource](../../docs/Form%20Types/DataSource/DataSource.md)**

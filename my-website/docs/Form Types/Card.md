@@ -26,8 +26,8 @@ The Card form type in Apps4x displays data in a visually rich card layout, offer
 
   - Use the **Create Icon** option to configure and design the form visually.
 
-  - [Configuration](../../docs/Forms/Configuration/Configuration.md)
-  - [Column](../../docs/Forms/Columns/Columns.md)
-  - [Data Source](../../docs/Forms/DataSource/DataSource.md)
-  - [Sorting](../../docs/Forms/Sorting/Sorting.md)
-  - [Condition](../../docs/Forms/Condition/Condition.md)
+  - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
+  - [Column](../../docs/Form%20Types/Columns/Columns.md)
+  - [Data Source](../../docs/Form%20Types/DataSource/DataSource.md)
+  - [Sorting](../../docs/Form%20Types/Sorting/Sorting.md)
+  - [Condition](../../docs/Form%20Types/Condition/Condition.md)
