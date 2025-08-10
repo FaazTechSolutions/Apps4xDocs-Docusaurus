@@ -11,6 +11,7 @@ sidebar_position : 1
   - [Collection](../../docs/Collection/Collection.md)
   - [Entity](../../docs/Entity/Entity.md)
   - [Rest Api Connector](../../docs/Collection/Connector/Rest%20Api%20&%20Swagger%20Connector.md)
+  - [SQL Connector](../../docs/Collection/Connector/SQL%20Connector.md)
   - [Swagger Connector](../../docs/Collection/Connector/Rest%20Api%20&%20Swagger%20Connector.md)
 
 **Datasource Setup**
