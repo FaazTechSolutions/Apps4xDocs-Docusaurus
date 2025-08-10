@@ -20,12 +20,12 @@ In the Create App popup:
 
   1. **Enter a Name** – Choose a clear and meaningful name for your external application.
 
-  2. **Select App Type** – Choose `External` from the App Type dropdown.
+  2. **Select App Type** – Choose **External** from the App Type dropdown.
 
   3. **Enter URL** – Provide the full web address (URL) of the third-party application you want to integrate.
 
 **Step 3: Submit**
 
-  - Click the `Submit` button to create and add the external app to your Apps4x environment.
+  - Click the **Submit** button to create and add the external app to your Apps4x environment.
 
 Once created, the external app can be accessed through the Apps4x interface, making it easy for users to switch between Apps4x and external services without leaving the platform.

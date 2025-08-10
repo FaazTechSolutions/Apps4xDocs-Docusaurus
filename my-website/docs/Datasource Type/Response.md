@@ -12,15 +12,15 @@ This is how Apps4x determines whether an API call was successful or not :
 
   - You provide a condition (for example, checking if a certain value exists or is true).
 
-  - If the condition is truthy (i.e., it returns true), then :
+  - If the **condition is truthy (i.e., it returns true)**, then :
 
-    - The API call is treated as a success.
+    - The API call is **treated as a success**.
 
     - The given success message will be shown.
 
-  - If the condition is falsy (i.e., it returns false), then:
+  - If the **condition is falsy (i.e., it returns false)**, then:
 
-    - The API call is treated as a failure.
+    - The API call is **treated as a failure**.
 
     - The given error message will be shown instead.
 

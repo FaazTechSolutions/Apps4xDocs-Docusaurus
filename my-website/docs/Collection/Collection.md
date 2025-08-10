@@ -33,6 +33,6 @@ Once you've created a Database Connector, you can start building Collections in 
 
 **4. Save the Collection**
 
-  - Once all fields are completed, Click continue button. It will take to you create entity and to create needed fields.
+  - Once all fields are completed, Click **continue** button. It will take to you create entity and to create needed fields.
 
   - If you're ready to create entity and it's fields, then you can proceed with the flow.

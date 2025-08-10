@@ -22,13 +22,13 @@ Follow these steps to create your own app:
 
   - Apps4x supports various types of applications. Select the one that suits your needs:
 
-    - Application
-    - Portal
-    - Workspace - Not Implemented
-    - Website - Not Implemented
-    - Mobile App - Not Implemented
-    - API Application - Not Implemented
-    - External App
+    - **Application**
+    - **[Portal](../../docs/Portal/Portal.md)**
+    - **Workspace** - Not Implemented
+    - **Website** - Not Implemented
+    - **Mobile App** - Not Implemented
+    - **API Application** - Not Implemented
+    - **[External App](../../docs/External/External.md)**
 
 **4. Set a Name for Your App**
 
