@@ -32,26 +32,26 @@ You can customize each field inside the form design canvas to match your needs.
     - **Button** (Only for fields with data type = Button; appears like a button)
     - **Infobox**
     - **Rating**
-    - **Direction** (Choose Vertical or Horizontal layout)
+  - **Direction** (Choose Vertical or Horizontal layout)
 
-    - **Alignment** (Align content Left, Center, or Right)
+  - **Alignment** (Align content Left, Center, or Right)
 
-    - **Label Position** (Place label Top or Left)
+  - **Label Position** (Place label Top or Left)
 
-    - **Field Class** (Add a CSS class like .bg-color `{ background-color: red }`)
+  - **Field Class** (Add a CSS class like .bg-color `{ background-color: red }`)
 
-    - **Formula** (Use handlebars like `{{productId}}` to insert values dynamically)
+  - **Formula** (Use handlebars like `{{productId}}` to insert values dynamically)
 
-    - **Position** (Choose layout type: Static, Absolute, or Relative)
+  - **Position** (Choose layout type: Static, Absolute, or Relative)
 
-    - **Background color** : Set background color.
+  - **Background color** : Set background color.
 
-    - **Text color** : Set text color.
+  - **Text color** : Set text color.
 
-    - **Hide label** : Hide the field label.
+  - **Hide label** : Hide the field label.
 
-    - **Show Mentions** : Enables @mention support (Only for HTML Editor fields)
+  - **Show Mentions** : Enables @mention support (Only for HTML Editor fields)
 
-    - **Enable placeholder** : Adds placeholder support (Only for HTML Editor fields)
+  - **Enable placeholder** : Adds placeholder support (Only for HTML Editor fields)
 
 > **Note :** Some types like Price, Discount, Diagonal, and Tag are not yet implemented.
