@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.8.1">
 <title data-rh="true">Entity | Apps4x Docs</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/Entity/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Entity | Apps4x Docs"><meta data-rh="true" name="description" content="An Entity is a core component within a Collection. It defines the structure of your data by grouping Fields, Forms, Events, Activities, and Actions under one logical unit."><meta data-rh="true" property="og:description" content="An Entity is a core component within a Collection. It defines the structure of your data by grouping Fields, Forms, Events, Activities, and Actions under one logical unit."><link data-rh="true" rel="icon" href="/Apps4xDocs-Docusaurus/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/Entity/"><link data-rh="true" rel="alternate" href="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/Entity/" hreflang="en"><link data-rh="true" rel="alternate" href="https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/Entity/" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Entity","item":"https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/category/entity"},{"@type":"ListItem","position":2,"name":"Entity","item":"https://faaztechsolutions.github.io/Apps4xDocs-Docusaurus/docs/Entity/"}]}</script><link rel="stylesheet" href="/Apps4xDocs-Docusaurus/assets/css/styles.a60c3217.css">
-<script src="/Apps4xDocs-Docusaurus/assets/js/runtime~main.2afd5085.js" defer="defer"></script>
+<script src="/Apps4xDocs-Docusaurus/assets/js/runtime~main.912d227a.js" defer="defer"></script>
 <script src="/Apps4xDocs-Docusaurus/assets/js/main.7ff2d669.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -31,6 +31,45 @@
 <p><strong>3. Create the Entity</strong></p>
 <ul>
 <li>Click <code>Save</code> to add the entity to your collection.</li>
-</ul></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Entity/Entity.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Apps4xDocs-Docusaurus/docs/category/entity"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Entity</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/Apps4xDocs-Docusaurus/docs/category/fields"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Fields</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#how-to-create-an-entity-" class="table-of-contents__link toc-highlight">How to Create an Entity ?</a></li></ul></div></div></div></div></main></div></div></div></div>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="entity-versioning-">Entity Versioning :<a href="#entity-versioning-" class="hash-link" aria-label="Direct link to Entity Versioning :" title="Direct link to Entity Versioning :">​</a></h2>
+<p>Entity Versioning allows you to manage and control changes made to an Entity over time. This feature ensures that once an Entity is finalized, it remains unchanged unless explicitly versioned.</p>
+<ul>
+<li>
+<p>When an Entity is initially created, it starts in <strong>Draft</strong> status with <strong>Version 1</strong> by default.</p>
+</li>
+<li>
+<p>After configuring all necessary components—such as fields, forms, and events—you can change the Entity status from <strong>Draft</strong> to <strong>Active</strong> once no further modifications are needed.</p>
+</li>
+<li>
+<p><strong>Active</strong> Entities are locked from further editing. To make changes, you must create a <strong>new version</strong> of the Entity.</p>
+</li>
+<li>
+<p>Creating a new version automatically:</p>
+<ul>
+<li>
+<p>Sets the previous version to <strong>Inactive</strong>.</p>
+</li>
+<li>
+<p>Creates a new version (e.g., <strong>Version 2</strong>) in <strong>Draft</strong> status.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>You can then modify and configure the new version as needed.</p>
+</li>
+<li>
+<p>Once you&#x27;re satisfied with the updates, activate the new version. Upon activation:</p>
+<ul>
+<li>
+<p>The new version becomes <strong>Active</strong>.</p>
+</li>
+<li>
+<p>The previous version remains <strong>Inactive</strong>.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>This versioning mechanism helps preserve historical configurations while enabling controlled updates to Entities.</p></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Entity/Entity.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Apps4xDocs-Docusaurus/docs/category/entity"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Entity</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/Apps4xDocs-Docusaurus/docs/category/fields"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Fields</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#how-to-create-an-entity-" class="table-of-contents__link toc-highlight">How to Create an Entity ?</a></li><li><a href="#entity-versioning-" class="table-of-contents__link toc-highlight">Entity Versioning :</a></li></ul></div></div></div></div></main></div></div></div></div>
 </body>
 </html>
