@@ -48,4 +48,6 @@ Entity Versioning allows you to manage and control changes made to an Entity ove
 
     - The previous version remains **Inactive**.
 
+    - If needed, you can revert **Version 1** from **Deactivated** back to **Draft** status for further modifications or reuse.
+
 This versioning mechanism helps preserve historical configurations while enabling controlled updates to Entities.

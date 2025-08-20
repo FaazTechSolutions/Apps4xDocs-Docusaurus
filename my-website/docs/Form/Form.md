@@ -33,3 +33,35 @@ Apps4x supports a wide range of form types, categorized by function and display 
   - Assignment - Not in Use
   - [Filter](../../docs/Form%20Types/Filter.md)
   - Menu - Not in Use
+
+## Form Versioning
+
+Form versioning enables efficient management and control of changes made to a form's configuration.
+
+  - When a form is first created, it starts in **Draft** status by default.
+
+  - While in Draft status, you can modify the form’s **design**, **rules**, **data sources**, and other **configurations**.
+
+  - Once you’ve finalized your changes, you can **Activate** the form. Activation locks the form, preventing any further modifications.
+
+  - After a form is activated, it can no longer be edited directly.
+
+  - To make updates or changes to an already activated form, you must **create a new version** of the form.
+
+  - When a new version is created :
+
+    - The previous version (e.g., Version 1) remains **Active**.
+
+    - The new version (e.g., Version 2) is created in **Draft** status.
+
+  - You can then update and configure Version 2 as needed. Once satisfied, activate it to apply the changes.
+
+  - Upon activation of the new version :
+
+    - The previous version is automatically set to **Deactivated**.
+
+    - The newly activated version becomes the current live form.
+
+    - If needed, you can revert **Version 1** from **Deactivated** back to **Draft** status for further modifications or reuse.
+
+> **Notes :** If the associated **Entity** is in Active status, you cannot create a new form. However, you can still make changes to existing forms.
