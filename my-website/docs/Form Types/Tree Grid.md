@@ -21,6 +21,20 @@ If you have a table with:
 
 The Tree Grid will group employees under their respective managers automatically.
 
+## How to Configure
+
+  - **Create a Tree Grid form** under your desired entity.
+
+  - **Add the required fields** for your data structure.
+
+  - Create a **ParentId** field as a **Client Field**.
+
+  - Navigate to the Tree View tab and configure the following:
+
+    - Set the `RecId` field as the **Child Key**.
+    - Set the `ParentId` field as the **Parent Key**.
+    - Select any field you want to display as the **expandable label** under the Parent Key (e.g., Employee Name).
+
 ## Configuration Tabs
 
   - [Configuration](../../docs/Form%20Types/Configuration/Configuration.md)
